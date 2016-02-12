@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  max-width: 1500px;
+  max-width: 1400px;
   min-height: 800px;
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
@@ -81,7 +81,7 @@ footer {
 
 /*Tables*/
 table {
-    width: 110%;
+    width: 105%;
 }
 
 table tr th {
